@@ -3,12 +3,12 @@
 
 
 &lt;h2 id="this-is-a-title"&gt;&lt;a class="toclink" href="#this-is-a-title"&gt;This is a title&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I'm the content! My name is Luis Donet!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Me" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="gallery" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;How a friend of mine created a blog for me&lt;/p&gt;
+&lt;p&gt;I'm the content! My name is Luis Donet! And this actually works!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Me" class="narrow" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="gallery narrow" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;How a friend of mine created a blog for me&lt;/p&gt;
 
 
 &lt;h2 id="this-is-a-title"&gt;&lt;a class="toclink" href="#this-is-a-title"&gt;This is a title&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I'm the content! My name is Luis Donet!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Me" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="gallery" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="probability"></category></entry></feed>
+&lt;p&gt;I'm the content! My name is Luis Donet! And this actually works!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Me" class="narrow" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="gallery narrow" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="probability"></category></entry></feed>

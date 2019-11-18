@@ -3,6 +3,6 @@
 
 
 &lt;h2 id="this-is-a-title"&gt;&lt;a class="toclink" href="#this-is-a-title"&gt;This is a title&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I'm the content! My name is Luis Donet!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Me" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="gallery" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luis Donet</dc:creator><pubDate>Mon, 18 Nov 2019 00:00:00 -0300</pubDate><guid isPermaLink="false">tag:luisdonet.github.io,2019-11-18:/posts/hello-world</guid><category>probability</category></item></channel></rss>
+&lt;p&gt;I'm the content! My name is Luis Donet! And this actually works!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Me" class="narrow" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="gallery narrow" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="https://luisdonet.github.io/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luis Donet</dc:creator><pubDate>Mon, 18 Nov 2019 00:00:00 -0300</pubDate><guid isPermaLink="false">tag:luisdonet.github.io,2019-11-18:/posts/hello-world</guid><category>probability</category></item></channel></rss>
