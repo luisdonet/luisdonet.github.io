@@ -14,4 +14,4 @@ curl -s -X POST \
    -H "Travis-API-Version: 3" \
    -H "Authorization: token $TOKEN" \
    -d "$body" \
-   https://api.travis-ci.com/repo/luisdonet%2Fluisdonet.github.io/requests
+   https://api.travis-ci.org/repo/luisdonet%2Fluisdonet.github.io/requests

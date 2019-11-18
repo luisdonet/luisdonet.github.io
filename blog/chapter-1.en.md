@@ -14,8 +14,8 @@ How a friend of mine created a blog for me
 
 ## This is a title
 
-I'm the content! My name is Luis Donet!
+I'm the content! My name is Luis Donet! And this actually works!
 
-![Me]({attach}images/hello/hola!-thumbnail.jpg)
+![Me]({attach}images/hello/hola!-thumbnail.jpg){: .narrow width=640}
 
-[![Me]({attach}images/hello/hola!-thumbnail.jpg){: .b-lazy width=640 data-src=/blog/images/hello/hola!.jpg }](./blog/images/hello/hola!.jpg){: .gallery }
+[![Me]({attach}images/hello/hola!-thumbnail.jpg){: .b-lazy width=640 data-src=/blog/images/hello/hola!.jpg }](./blog/images/hello/hola!.jpg){: .gallery .narrow}
